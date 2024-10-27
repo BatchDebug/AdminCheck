@@ -12,4 +12,4 @@ title Example Title
 echo Running as an Administrator.
 :: Place any additional commands here
 pause
-exit
+exit /b
